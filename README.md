@@ -29,5 +29,5 @@ I am a passionate software engineer based in Santa Cruz de la Sierra, Bolivia �
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Danner Galvarro Vaca](https://linkedin.com/in/TU_ENLACE)
-- **Portfolio / Email:** [Añade tu correo o web aquí]
+- **LinkedIn:** [[Danner Galvarro Vaca](https://linkedin.com/in/TU_ENLACE)](https://www.linkedin.com/in/danner-galvarro-vaca-698505131/)
+
