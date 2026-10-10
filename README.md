@@ -1,4 +1,4 @@
-# Hi there, I'm Danner Galvarro Vaca 👋
+# Hi there, I'm Danner Galvarro Vaca 
 
 ### Full-Stack Software Engineer | Software Architecture Consultant | Tech Lead | University Lecturer
 
