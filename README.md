@@ -15,6 +15,7 @@ I am a passionate software engineer based in Santa Cruz de la Sierra, Bolivia ðŸ
 
 - **Languages:** C#, TypeScript, JavaScript, SQL
 - **Frontend:** Angular, React, HTML/CSS
+- **Mobil:** Swift, Flutter 
 - **Backend:** .NET Core, Node.js
 - **Databases:** SQL Server, PostgreSQL, MongoDB, Oracle, ClickHouse
 - **DevOps & Tools:** Docker, Azure DevOps, Git, SonarCloud, GitHub Copilot Pro
